@@ -184,6 +184,12 @@ endphoneme
 
 
 
+phoneme r2
+  import_phoneme fr/r
+endphoneme
+
+
+
 phoneme Q
   vcd vel frc
   lengthmod 6
